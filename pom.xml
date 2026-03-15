@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>itmo.course</groupId>
+    <artifactId>java-application-development</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>lab-1</module>
+        <module>lab-2</module>
+        <module>lab-3</module>
+        <module>lab-4</module>
+    </modules>
+</project>
